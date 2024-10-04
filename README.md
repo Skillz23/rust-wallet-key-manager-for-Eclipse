@@ -51,6 +51,10 @@ To run this code, you need to have the following installed:
 
 3. Once the program runs successfully, it will generate a file called `wallet.json` in the project directory containing the serialized keypair.
 
+## Feedback & Issues
+
+If you encounter any bugs, have suggestions, or want to discuss this project, feel free to [open an issue](https://github.com/your-username/rust-wallet-key-manager/issues) on GitHub.
+
 ## Example
 
 For example, if your private and public keys are as follows:
@@ -62,3 +66,4 @@ The resulting `wallet.json` file will look something like this:
 
 ```json
 [67, 98, 65, 213, 135, 20, ... ]
+
