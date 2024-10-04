@@ -1,4 +1,4 @@
-# Rust Wallet Key Manager
+# Rust Wallet Key Manager for Eclipse 
 
 This Rust project provides a simple tool for managing private and public keys in Base58 format, commonly used in blockchain applications. It decodes the keys, validates their size, and serializes them into a JSON file for storage.
 
