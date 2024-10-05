@@ -53,7 +53,7 @@ To run this code, you need to have the following installed:
 
 ## Feedback & Issues
 
-If you encounter any bugs, have suggestions, or want to discuss this project, feel free to [open an issue](https://github.com/your-username/rust-wallet-key-manager/issues) on GitHub.
+If you encounter any bugs, have suggestions, or want to discuss this project, feel free to comment here https://github.com/Skillz23/rust-wallet-key-manager-for-Eclipse/discussions/1
 
 ## Example
 
