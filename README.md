@@ -23,15 +23,8 @@ rust-wallet-key-manager/ │ └── wallet_key_json/ ├── Cargo.toml # R
 
 
 ## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/Skillz23/rust-wallet-key-manager.git
-    cd rust-wallet-key-manager
-    ```
     
-2. Install dependencies by adding the necessary crates to your `Cargo.toml` file:
+1. Install dependencies by adding the necessary crates to your `Cargo.toml` file:
 
     ```toml
     [dependencies]
@@ -39,7 +32,7 @@ rust-wallet-key-manager/ │ └── wallet_key_json/ ├── Cargo.toml # R
     serde_json = "1.0"
     ```
 
-3. Compile the project:
+2. Compile the project:
 
     ```bash
     cargo build
