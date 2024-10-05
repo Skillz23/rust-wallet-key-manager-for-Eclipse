@@ -15,6 +15,12 @@ To run this code, you need to have the following installed:
 - [Rust](https://www.rust-lang.org/) (Programming Language)
 - [bs58](https://docs.rs/bs58/) (Base58 encoding/decoding library for Rust)
 - [serde_json](https://docs.rs/serde_json/) (Serialization library for JSON in Rust)
+  
+## Project Structure
+
+The project is organized as follows:
+rust-wallet-key-manager/ │ └── wallet_key_json/ ├── Cargo.toml # Rust manifest file └── src/ └── main.rs # Main Rust code
+
 
 ## Installation
 
