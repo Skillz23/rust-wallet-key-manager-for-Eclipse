@@ -21,10 +21,10 @@ To run this code, you need to have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/rust-wallet-key-manager.git
+    git clone https://github.com/Skillz23/rust-wallet-key-manager.git
     cd rust-wallet-key-manager
     ```
-
+    
 2. Install dependencies by adding the necessary crates to your `Cargo.toml` file:
 
     ```toml
