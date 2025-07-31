@@ -66,3 +66,4 @@ The resulting `wallet.json` file will look something like this:
 ```json
 [67, 98, 65, 213, 135, 20, ... ]
 
+UPDATE: 7/31/2025 Working on new private key treatement option
